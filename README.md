@@ -1,55 +1,62 @@
-# Hello, I'm Nandhu (NKR03129) 👋
+# Hi there, I'm Nandhu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;MLR+Orchestration+Specialist;Glocalization+Hub+Architect;Problem+Solver+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI-Augmented+Developer;Next.js+%26+Cloud+Architect;Building+The+Future+of+Web;Prompt+Engineering+Specialist" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NKR03129&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 Professional Snapshot
-I am an Engineer at **Cognizant** specializing in high-stakes Life Sciences technology. My focus is on automating the "Digital Supply Chain"—ensuring complex, regulated content moves from global strategy to local markets with 100% compliance.
+### ⚡ The "AI-First" Engineer
+I am a Full Stack Developer who doesn't just write code—I **architect solutions** using the latest AI advancements. By integrating Large Language Models (LLMs) into my workflow, I bridge the gap between human creativity and machine efficiency.
 
-- 🏗️ **Current Project:** Building an **AI-driven MLR Content Orchestrator** for global pharmaceutical markets.
-- 🌍 **Focus:** **Glocalization Hub** architecture—transforming master assets into culturally and legally compliant regional content.
-- 🧪 **Domain Expertise:** Deep experience in **TEVA COTA** (Content Outreach & Technical Approval) frameworks.
-- ⚙️ **Philosophy:** I build systems that make impossible workflows feel invisible.
+- 🧠 **AI-Augmented Development:** Expert at using AI tools to accelerate coding velocity, debug complex logic, and optimize system architecture.
+- 🏗️ **Scalable Systems:** Building robust applications that handle real-world complexity (from Pharma Glocalization to Global Orchestration).
+- 🚀 **Modern Stack:** Specializing in the **React/Next.js** ecosystem with a focus on high-performance rendering and sleek UI.
 
 ---
 
-### 💻 My Tech Arsenal
-<p align="left">
+### 💻 Tech Stack & Tools
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,mongodb,github,vscode,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,express,mongodb,github,vscode,figma,postman,docker,vercel&perline=7" />
   </a>
 </p>
 
 ---
 
-### 📊 Engineering Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NKR03129&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR03129&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NKR03129&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR03129&layout=compact&theme=buefy&hide_border=true" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKR03129&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKR03129&theme=buefy&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Professional Highlights
-- **Veeva Vault Specialist:** Expert at integrating content lifecycles with industry-standard CRM/DAM systems.
-- **Workflow Automation:** Reduced time-to-market for digital assets by streamlining MLR (Medical/Legal/Regulatory) pathways.
-- **Full Stack Capability:** Fluent in building both the robust backend logic for content engines and the sleek frontend UIs for orchestrators.
+### 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NKR03129&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+### 🤝 Let's Build Something Crazy
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+<a href="mailto:your.email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="50" /></a>
 </p>
 
 <br />
 
-> "Engineering is not just about code; it's about solving the business puzzles that matter."
+<p align="center">
+  <i>"I don't just fix bugs, I prompt them into features."</i> 🤖
+</p>
