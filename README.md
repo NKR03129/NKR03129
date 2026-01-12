@@ -30,22 +30,12 @@ I am a Full Stack Developer who doesn't just write code—I **architect solution
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NKR03129&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKR03129&layout=compact&theme=buefy&hide_border=true" />
+
+![Nandhu's Stats](https://github-readme-stats.vercel.app/api?username=NKR03129&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NKR03129&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NKR03129&theme=buefy&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NKR03129&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</p>
 
 ---
 
